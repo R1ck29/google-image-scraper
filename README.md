@@ -1,10 +1,9 @@
-# Google Image Scraper
+# Image Scraper
 
 ## Requirements
 ```sh
 pip install requirements.txt
 ```
-
 ## Google Image Scraping
 ### How to Run
 
